@@ -12,3 +12,5 @@ In Greek mythology, the Minotaur is a mythical creature portrayed in Classical t
 * [Unicorn](unicorn.md)
 * [Siren](siren.md)
 * [Dragon](dragon.md)
+
+#### Return to [main](README.md)
