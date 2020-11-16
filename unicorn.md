@@ -17,6 +17,6 @@ The unicorn continues to hold a place in popular culture. It is often used as a 
 ![OfTheUnicorn](https://upload.wikimedia.org/wikipedia/commons/7/70/Oftheunicorn.jpg)
 
 #### Other Mythological Creatures
-* [Minotaur](https://en.wikipedia.org/wiki/Minotaur)
-* [Siren](https://en.wikipedia.org/wiki/Siren_(mythology))
-* [Dragon](https://en.wikipedia.org/wiki/Dragon)
+* [Minotaur](minotaur.md)
+* [Siren](siren.md)
+* [Dragon](dragon.md)
